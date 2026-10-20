@@ -6,3 +6,9 @@ __pycache__/
 *.pkl
 *.onnx
 voiceprint*.json
+
+# Mémoire de Jarvis et ses sauvegardes : jamais dans la vitrine publique
+memoire*.json
+memoire.json.*
+sauvegardes-memoire/
+personnes.json
